@@ -1,0 +1,7 @@
+---
+# Character Bot Secrets
+discord_token: "djajdsnjasdjksdanksjda339392390"
+ollama_model: "llama2-uncensored"
+max_response_words: 25
+fake_you_username: "example@gmail.com"
+fake_you_password: "1234"
